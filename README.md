@@ -1,6 +1,6 @@
-# Simply Python
+# The Python Vault
 
-Welcome to the Simply Python project! This repository contains a collection of Python scripts and projects aimed at simplifying various tasks and demonstrating Python's capabilities.
+Welcome to the The Python Vault! This repository contains a collection of Python scripts and concepts aimed at simplifying various tasks and demonstrating Python's capabilities.
 
 ## Table of Contents
 
@@ -12,28 +12,28 @@ Welcome to the Simply Python project! This repository contains a collection of P
 
 ## Introduction
 
-Simply Python is designed to provide simple and easy-to-understand Python scripts for beginners and experienced developers alike. Each script is well-documented and includes examples to help you get started quickly.
+The Python Vault is designed to provide simple and easy-to-understand Python scripts for beginners and experienced developers alike. Each script is well-documented and includes examples to help you get started quickly.
 
 ## Installation
 
-To get started with Simply Python, clone the repository to your local machine:
+To get started with The Python Vault, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/simply-python.git
+git clone https://github.com/lumeirne/The-Python-Vault.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd simply-python
+cd The Python Vault
 ```
 
 ## Usage
 
-Each script in the repository is self-contained and can be run independently. For example, to run a script named `example.py`, use the following command:
+Each script in the repository is self-contained and can be run independently. For example, to run a script named `generators.py`, use the following command:
 
 ```bash
-python example.py
+python generators.py
 ```
 
 Refer to the documentation within each script for specific usage instructions and examples.
