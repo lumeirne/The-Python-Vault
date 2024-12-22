@@ -50,7 +50,7 @@ You can find the code for 'square generator' and 'fibonacci generator' [here](./
 
 ## Advantages of Generators
 
-- **Memory Efficiency**: Generators do not store the entire sequence in memory.
+- **Memory Efficiency**: Generators do not store the entire sequence in memory. Unlike normal iterators.
 - **Lazy Evaluation**: Values are produced only when needed.
 - **Improved Performance**: Generators can be faster than list comprehensions for large datasets.
 

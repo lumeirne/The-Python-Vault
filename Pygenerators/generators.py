@@ -42,6 +42,10 @@ def fibonacci_generator(limit):
         yield a
         a, b = b, a + b
 
+#Remember when using the generator, if you call the function directly(normal way) you will get the generator object
+print(fibonacci_generator) #<function fibonacci_generator at 0x7f8b3f7b7d30> 
+
+#To get the values, you need to iterate over the generator object like below
 # Using the Fibonacci generator
 for value in fibonacci_generator(10):
     print(value)
