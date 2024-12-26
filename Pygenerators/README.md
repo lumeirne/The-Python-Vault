@@ -2,6 +2,7 @@
 
 Generators are a simple and powerful tool for creating iterators. They allow you to iterate through a sequence of values without creating and storing the entire sequence in memory.
 
+
 ## Creating a Generator
 
 A generator in Python is created using a function with the `yield` statement. Here is an example:
